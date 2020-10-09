@@ -13,6 +13,7 @@ namespace ConsoleApp6
 
             
             Console.WriteLine("fzzfzfz");
+            //fzfqfz
 
 
         }
